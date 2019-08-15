@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["fast", "loud", "old", "cars"]
+  ["I", "am", "really", "learning"]
 end
 
 def add_element_to_end_of_array(array, element)
-  create_an_array << "green"
+  create_an_array << ""
 end
 
 def add_element_to_start_of_array(array, element)
